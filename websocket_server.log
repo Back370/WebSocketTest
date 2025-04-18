@@ -1,0 +1,42 @@
+2025-03-06 01:31:20.773 | INFO     | __main__:start_server:47 - WebSocketサーバーを ws://localhost:8080 で起動
+2025-03-06 01:31:23.532 | INFO     | __main__:handle_client:22 - クライアント接続: 接続元 IP: ::1, ポート: 54656 (WebSocket ID: b6b33e68-484b-4655-a89d-735cf5a6686d)
+2025-03-06 01:31:23.533 | INFO     | __main__:handle_client:25 - ('::1', 54656, 0, 0)に接続情報を送信: サーバーに接続しました。接続情報: 接続元 IP: ::1, ポート: 54656, WebSocket ID: b6b33e68-484b-4655-a89d-735cf5a6686d
+2025-03-06 01:31:49.595 | INFO     | __main__:handle_client:43 - クライアント切断: 接続元 IP: ::1, ポート: 54656 (WebSocket ID: b6b33e68-484b-4655-a89d-735cf5a6686d)
+2025-03-06 01:34:07.700 | INFO     | __main__:handle_client:22 - クライアント接続: 接続元 IP: ::1, ポート: 54679 (WebSocket ID: b402c4f3-d6dd-4b97-8e3a-edc6a5beb9bb)
+2025-03-06 01:34:07.700 | INFO     | __main__:handle_client:25 - ('::1', 54679, 0, 0)に接続情報を送信: サーバーに接続しました。接続情報: 接続元 IP: ::1, ポート: 54679, WebSocket ID: b402c4f3-d6dd-4b97-8e3a-edc6a5beb9bb
+2025-03-06 01:34:16.229 | INFO     | __main__:handle_client:43 - クライアント切断: 接続元 IP: ::1, ポート: 54679 (WebSocket ID: b402c4f3-d6dd-4b97-8e3a-edc6a5beb9bb)
+2025-03-06 01:34:35.117 | INFO     | __main__:handle_client:22 - クライアント接続: 接続元 IP: ::1, ポート: 54684 (WebSocket ID: 2b1c2ee0-0661-4757-801f-6e271aa389d9)
+2025-03-06 01:34:35.118 | INFO     | __main__:handle_client:25 - ('::1', 54684, 0, 0)に接続情報を送信: サーバーに接続しました。接続情報: 接続元 IP: ::1, ポート: 54684, WebSocket ID: 2b1c2ee0-0661-4757-801f-6e271aa389d9
+2025-03-06 01:34:42.186 | INFO     | __main__:handle_client:43 - クライアント切断: 接続元 IP: ::1, ポート: 54684 (WebSocket ID: 2b1c2ee0-0661-4757-801f-6e271aa389d9)
+2025-03-06 01:37:06.190 | INFO     | __main__:handle_client:22 - クライアント接続: 接続元 IP: ::1, ポート: 54703 (WebSocket ID: 7dfb74ba-ad2b-40f1-a75b-7cdb180402fa)
+2025-03-06 01:37:06.190 | INFO     | __main__:handle_client:25 - ('::1', 54703, 0, 0)に接続情報を送信: サーバーに接続しました。接続情報: 接続元 IP: ::1, ポート: 54703, WebSocket ID: 7dfb74ba-ad2b-40f1-a75b-7cdb180402fa
+2025-03-06 01:37:11.297 | INFO     | __main__:handle_client:43 - クライアント切断: 接続元 IP: ::1, ポート: 54703 (WebSocket ID: 7dfb74ba-ad2b-40f1-a75b-7cdb180402fa)
+2025-03-06 01:37:38.356 | INFO     | __main__:handle_client:22 - クライアント接続: 接続元 IP: ::1, ポート: 54705 (WebSocket ID: eb1496a5-c950-46ad-b56c-09f9fad4f455)
+2025-03-06 01:37:38.356 | INFO     | __main__:handle_client:25 - ('::1', 54705, 0, 0)に接続情報を送信: サーバーに接続しました。接続情報: 接続元 IP: ::1, ポート: 54705, WebSocket ID: eb1496a5-c950-46ad-b56c-09f9fad4f455
+2025-03-06 01:37:59.091 | INFO     | __main__:handle_client:43 - クライアント切断: 接続元 IP: ::1, ポート: 54705 (WebSocket ID: eb1496a5-c950-46ad-b56c-09f9fad4f455)
+2025-03-06 01:39:03.708 | INFO     | __main__:handle_client:22 - クライアント接続: 接続元 IP: ::1, ポート: 54730 (WebSocket ID: 7d2c26cc-01ab-4be2-800d-7960a877091a)
+2025-03-06 01:39:03.708 | INFO     | __main__:handle_client:25 - ('::1', 54730, 0, 0)に接続情報を送信: サーバーに接続しました。接続情報: 接続元 IP: ::1, ポート: 54730, WebSocket ID: 7d2c26cc-01ab-4be2-800d-7960a877091a
+2025-03-06 01:39:23.681 | INFO     | __main__:handle_client:43 - クライアント切断: 接続元 IP: ::1, ポート: 54730 (WebSocket ID: 7d2c26cc-01ab-4be2-800d-7960a877091a)
+2025-03-06 01:41:14.064 | INFO     | __main__:handle_client:22 - クライアント接続: 接続元 IP: ::1, ポート: 55063 (WebSocket ID: 1e3e0066-6503-4793-8dc0-40e82c71cfa2)
+2025-03-06 01:41:14.064 | INFO     | __main__:handle_client:25 - ('::1', 55063, 0, 0)に接続情報を送信: サーバーに接続しました。接続情報: 接続元 IP: ::1, ポート: 55063, WebSocket ID: 1e3e0066-6503-4793-8dc0-40e82c71cfa2
+2025-03-06 01:41:26.697 | INFO     | __main__:handle_client:43 - クライアント切断: 接続元 IP: ::1, ポート: 55063 (WebSocket ID: 1e3e0066-6503-4793-8dc0-40e82c71cfa2)
+2025-03-06 01:41:46.346 | INFO     | __main__:handle_client:22 - クライアント接続: 接続元 IP: ::1, ポート: 55082 (WebSocket ID: 5a6ee377-9e5e-4724-aa0a-e94391f6f3de)
+2025-03-06 01:41:46.346 | INFO     | __main__:handle_client:25 - ('::1', 55082, 0, 0)に接続情報を送信: サーバーに接続しました。接続情報: 接続元 IP: ::1, ポート: 55082, WebSocket ID: 5a6ee377-9e5e-4724-aa0a-e94391f6f3de
+2025-03-06 01:41:49.175 | INFO     | __main__:handle_client:43 - クライアント切断: 接続元 IP: ::1, ポート: 55082 (WebSocket ID: 5a6ee377-9e5e-4724-aa0a-e94391f6f3de)
+2025-03-06 01:45:43.581 | INFO     | __main__:handle_client:22 - クライアント接続: 接続元 IP: ::1, ポート: 55130 (WebSocket ID: db1437c0-c0b9-4033-b590-c8be21508513)
+2025-03-06 01:45:43.582 | INFO     | __main__:handle_client:25 - ('::1', 55130, 0, 0)に接続情報を送信: サーバーに接続しました。接続情報: 接続元 IP: ::1, ポート: 55130, WebSocket ID: db1437c0-c0b9-4033-b590-c8be21508513
+2025-03-06 01:45:47.022 | INFO     | __main__:handle_client:43 - クライアント切断: 接続元 IP: ::1, ポート: 55130 (WebSocket ID: db1437c0-c0b9-4033-b590-c8be21508513)
+2025-03-06 01:47:04.379 | INFO     | __main__:handle_client:22 - クライアント接続: 接続元 IP: ::1, ポート: 55154 (WebSocket ID: 05e01087-ed24-4e57-ba81-f5a99470440c)
+2025-03-06 01:47:04.379 | INFO     | __main__:handle_client:25 - ('::1', 55154, 0, 0)に接続情報を送信: サーバーに接続しました。接続情報: 接続元 IP: ::1, ポート: 55154, WebSocket ID: 05e01087-ed24-4e57-ba81-f5a99470440c
+2025-03-06 01:47:04.936 | INFO     | __main__:handle_client:30 - ('::1', 55154, 0, 0)からメッセージを受信 (WebSocket ID: 05e01087-ed24-4e57-ba81-f5a99470440c): pressed E key
+2025-03-06 01:47:42.203 | INFO     | __main__:handle_client:22 - クライアント接続: 接続元 IP: ::1, ポート: 55165 (WebSocket ID: 641a9ea9-6eb1-4724-92f9-95097a9d4599)
+2025-03-06 01:47:42.203 | INFO     | __main__:handle_client:25 - ('::1', 55165, 0, 0)に接続情報を送信: サーバーに接続しました。接続情報: 接続元 IP: ::1, ポート: 55165, WebSocket ID: 641a9ea9-6eb1-4724-92f9-95097a9d4599
+2025-03-06 01:47:43.263 | INFO     | __main__:handle_client:30 - ('::1', 55165, 0, 0)からメッセージを受信 (WebSocket ID: 641a9ea9-6eb1-4724-92f9-95097a9d4599): pressed E key
+2025-03-06 01:50:47.699 | INFO     | __main__:start_server:47 - WebSocketサーバーを ws://localhost:8080 で起動
+2025-03-06 14:05:00.961 | INFO     | __main__:start_server:47 - WebSocketサーバーを ws://localhost:8080 で起動
+2025-03-06 14:05:39.191 | INFO     | __main__:handle_client:22 - クライアント接続: 接続元 IP: ::1, ポート: 50601 (WebSocket ID: 6732ffcd-8d05-42ed-be8c-2845c9de0b85)
+2025-03-06 14:05:39.192 | INFO     | __main__:handle_client:25 - ('::1', 50601, 0, 0)に接続情報を送信: サーバーに接続しました。接続情報: 接続元 IP: ::1, ポート: 50601, WebSocket ID: 6732ffcd-8d05-42ed-be8c-2845c9de0b85
+2025-03-06 14:05:48.230 | INFO     | __main__:handle_client:43 - クライアント切断: 接続元 IP: ::1, ポート: 50601 (WebSocket ID: 6732ffcd-8d05-42ed-be8c-2845c9de0b85)
+2025-03-06 14:07:00.033 | INFO     | __main__:handle_client:22 - クライアント接続: 接続元 IP: ::1, ポート: 50961 (WebSocket ID: 24a86f71-a4af-46b2-8641-87459deb6c8a)
+2025-03-06 14:07:00.033 | INFO     | __main__:handle_client:25 - ('::1', 50961, 0, 0)に接続情報を送信: サーバーに接続しました。接続情報: 接続元 IP: ::1, ポート: 50961, WebSocket ID: 24a86f71-a4af-46b2-8641-87459deb6c8a
+2025-03-06 14:07:01.934 | INFO     | __main__:handle_client:30 - ('::1', 50961, 0, 0)からメッセージを受信 (WebSocket ID: 24a86f71-a4af-46b2-8641-87459deb6c8a): pressed E key
